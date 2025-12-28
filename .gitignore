@@ -1,0 +1,23 @@
+# --- Build Folders (Crucial) ---
+
+# .gitignore for C# Selenium WebDriver Project
+# Ignore the compiled binaries and object files shown in your screenshot
+[Bb]in/
+[Oo]bj/
+
+# --- IDE / Editor Settings ---
+# Visual Studio Code settings (often contain local paths)
+.vscode/
+
+# Visual Studio hidden folder (if you ever open this in full Visual Studio)
+.vs/
+
+# --- User-Specific Files ---
+# User settings and cache files that shouldn't be shared
+*.user
+*.suo
+*.userosscache
+
+# --- OS Generated Files ---
+.DS_Store
+Thumbs.db
